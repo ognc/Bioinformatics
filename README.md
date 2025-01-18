@@ -1,3 +1,0 @@
-# Bioinformatics
-
-Bioinformatics project
